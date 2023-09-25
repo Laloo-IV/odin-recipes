@@ -1,0 +1,22 @@
+* {
+    background-color: #f4a460;
+    color: #422d1a;
+    font-family: 'Pacifico', cursive, sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin-right: 2.5em;
+}
+
+hr {
+    width: 50%;
+    height: 1px;
+    border-color: #000000;
+    border-radius: 100%;
+}
+
+ol {
+    list-style-position: inside;
+}
